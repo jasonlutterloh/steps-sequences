@@ -1,0 +1,38 @@
+
+* {
+  font-family: 'Comfortaa', cursive;
+  color: #222;
+}
+html{
+  background: linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(214,214,214,1) 49%, rgba(254,254,254,1) 100%) no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0 0 100px;
+  padding: 0;
+}
+.app-container {
+  text-align: center;
+}
+.sequence-title {
+  text-transform: uppercase;
+  font-size: .9rem;
+  height: 100px;
+  vertical-align: middle;
+  line-height: 100px;
+  margin: 0;
+  padding: 0;
+  animation: slideDown 1s ease-in;
+}
+
+@keyframes slideDown {
+	from {
+		transform: translate3d(0, -100px, 0);
+	}
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}

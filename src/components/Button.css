@@ -1,0 +1,83 @@
+.button{
+  background: #329432;
+  height: 100px;
+  vertical-align: middle;
+  line-height: 100px;
+  border: 0;
+  font-size: 50px;
+  width: 100%;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  /* animation: slideUp 1s ease-in; */
+}
+
+.button:hover,
+.button:focus{
+  background: #2a792a;
+}
+
+.button:active{
+  box-shadow: none;
+}
+
+.back-button{
+  width: 80px;
+  z-index: 100;
+  background: rgba(0,0,0,.6);
+  /* animation: slideLeft 1s ease-in; */
+}
+.next-button{
+  width: 80px;
+  z-index: 100;
+  right: 0;
+  background: rgba(0,0,0,.6);
+  /* animation: slideRight 1s ease-in; */
+  left: unset;
+}
+.reset-button{
+  background-color: #db3236
+}
+.reset-button:hover,
+.reset-button:focus{
+  background-color: #ad272b
+}
+
+.next-button:hover,
+.next-button:focus,
+.back-button:hover,
+.back-button:focus{
+  background: rgba(0,0,0,.8);
+}
+
+/*TODO: Savings this for finishing touches */
+/* @keyframes slideUp {
+	from {
+		bottom: -100px;
+	}
+  to {
+    bottom: 0;
+  }
+}
+
+@keyframes slideLeft {
+	from {
+		left: -80px;
+	}
+  to {
+    left: 0;
+  }
+}
+
+@keyframes slideLeft {
+	from {
+		right: -80px;
+	}
+  to {
+    right: 0;
+  }
+} */

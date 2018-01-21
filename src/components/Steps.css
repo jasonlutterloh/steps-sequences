@@ -1,0 +1,13 @@
+.steps{
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  height: calc(100vh - 200px);
+  margin: 0 auto;
+  vertical-align: middle;
+}
+.steps-container{
+  position: absolute;
+  left: 0;
+  transition: 1s all;
+}
