@@ -1,6 +1,9 @@
 # Steps: Custom Sequences
 An app that lets you run through a sequence of steps.
 
+## Demo
+[Live Demo](https://steps-sequences-demo.firebaseapp.com/)
+
 ## Background
 I was trying to do a "priming" meditation exercise that I learned from Tony Robbins. The priming had a number of steps, each a minute long. My first time doing the routine, I had to keep resetting a timer on my phone every minute and it was incredibly distracting so I thought I'd build an app that managed the routine for me.
 
