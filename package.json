@@ -1,17 +1,20 @@
 {
   "name": "steps-sequences",
   "description": "An app that lets you run through a sequence of steps.",
-  "keywords": ["steps", "sequences", "timer", "routine"],
+  "keywords": [
+    "steps",
+    "sequences",
+    "timer",
+    "routine"
+  ],
   "version": "0.1.0",
-  "author": { "name" : "Jason Lutterloh"
-    , "url" : "https://jasonlutterloh.com/"
+  "author": {
+    "name": "Jason Lutterloh",
+    "url": "https://jasonlutterloh.com/"
   },
   "license": "MIT",
   "main": "src/index.js",
   "dependencies": {
-    "@fortawesome/fontawesome": "^1.1.2",
-    "@fortawesome/fontawesome-free-solid": "^5.0.4",
-    "@fortawesome/react-fontawesome": "0.0.17",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17"
