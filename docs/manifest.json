@@ -1,8 +1,0 @@
-{
-  "short_name": "Steps",
-  "name": "Steps: Customizable Sequences",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "theme_color": "#327094",
-  "background_color": "#e2e2e2"
-}
