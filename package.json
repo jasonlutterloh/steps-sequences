@@ -7,7 +7,7 @@
     "timer",
     "routine"
   ],
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": {
     "name": "Jason Lutterloh",
     "url": "https://jasonlutterloh.com/"
@@ -17,7 +17,7 @@
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-scripts": "^3.3.0"
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",

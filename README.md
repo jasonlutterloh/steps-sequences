@@ -5,7 +5,7 @@ An app that lets you run through a sequence of steps.
 [Live Demo](https://steps-sequences-demo.firebaseapp.com/)
 
 ## Background
-I was trying to do a "priming" meditation exercise that I learned from Tony Robbins. The priming had a number of steps, each a minute long. My first time doing the routine, I had to keep resetting a timer on my phone every minute and it was incredibly distracting so I thought I'd build an app that managed the routine for me.
+I was trying to do a meditation exercise. The exercise had a number of steps, each a minute long. My first time doing the routine, I had to keep resetting a timer on my phone every minute and it was incredibly distracting so I thought I'd build an app that managed the routine for me.
 
 The very next day, I was using a workout app that said the name of exercise, began a timer, counted down until the time was up, and then offered up the next exercise. This use case was different but I knew an app could be built to handle this use case as well as many others.
 
